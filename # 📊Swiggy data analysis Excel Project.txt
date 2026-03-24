@@ -1,0 +1,78 @@
+# 🍔 Swiggy Data Analysis Project (Excel Dashboard)
+
+## 📌 Project Overview
+
+This project analyzes Swiggy food delivery data using Microsoft Excel to uncover insights about customer behavior, restaurant performance, and ordering trends.
+
+The goal is to convert raw data into meaningful business insights through an interactive dashboard.
+
+---
+
+## 📁 Dataset
+
+* Swiggy Data (Excel)
+
+---
+
+## 🎯 Objectives
+
+* Analyze order patterns and trends
+* Identify top-performing restaurants
+* Understand customer preferences
+* Explore pricing and delivery insights
+* Track sales and order growth
+
+---
+
+## 📊 Key Insights
+
+* Certain restaurants receive higher orders consistently
+* Popular cuisines drive maximum revenue
+* Peak ordering times impact sales performance
+* Pricing and ratings influence customer decisions
+
+---
+
+## 📈 Dashboard Features
+
+* 📍 Restaurant-wise Analysis
+* 🍴 Cuisine Distribution
+* ⭐ Ratings Analysis
+* 💰 Price & Order Value Insights
+* 📅 Monthly / Daily Trends
+
+---
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning
+* Charts & Visualization
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 🚀 Conclusion
+
+This dashboard helps understand customer ordering behavior and restaurant performance, enabling better business decisions in the food delivery industry.
+
+---
+
+## 🔗 Future Improvements
+
+* Build Power BI dashboard
+* Add SQL-based analysis
+* Perform predictive analysis
+
+---
+
+## 👤 Author
+
+**Omkar Salunke**
+Aspiring Data Analyst
